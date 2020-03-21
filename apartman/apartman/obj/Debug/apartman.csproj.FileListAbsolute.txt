@@ -1,0 +1,38 @@
+F:\apartman yönetimi\apartman\apartman\bin\Debug\apartman.exe.config
+F:\apartman yönetimi\apartman\apartman\bin\Debug\apartman.exe
+F:\apartman yönetimi\apartman\apartman\bin\Debug\apartman.pdb
+F:\apartman yönetimi\apartman\apartman\obj\Debug\apartman.csprojResolveAssemblyReference.cache
+F:\apartman yönetimi\apartman\apartman\obj\Debug\apartman.frmApartmanGiris.resources
+F:\apartman yönetimi\apartman\apartman\obj\Debug\apartman.frmMenu.resources
+F:\apartman yönetimi\apartman\apartman\obj\Debug\apartman.Properties.Resources.resources
+F:\apartman yönetimi\apartman\apartman\obj\Debug\apartman.csproj.GenerateResource.Cache
+F:\apartman yönetimi\apartman\apartman\obj\Debug\apartman.exe
+F:\apartman yönetimi\apartman\apartman\obj\Debug\apartman.pdb
+D:\SANEM KOCA\2.DÖNEM\PROJELER\APARTMAN YÖNETİM\apartman\apartman\bin\Debug\apartman.exe.config
+D:\SANEM KOCA\2.DÖNEM\PROJELER\APARTMAN YÖNETİM\apartman\apartman\obj\Debug\apartman.exe
+D:\SANEM KOCA\2.DÖNEM\PROJELER\APARTMAN YÖNETİM\apartman\apartman\obj\Debug\apartman.pdb
+D:\SANEM KOCA\2.DÖNEM\PROJELER\APARTMAN YÖNETİM\apartman\apartman\bin\Debug\apartman.exe
+D:\SANEM KOCA\2.DÖNEM\PROJELER\APARTMAN YÖNETİM\apartman\apartman\bin\Debug\apartman.pdb
+D:\SANEM KOCA\2.DÖNEM\PROJELER\APARTMAN YÖNETİM\apartman\apartman\obj\Debug\apartman.csprojResolveAssemblyReference.cache
+D:\SANEM KOCA\2.DÖNEM\PROJELER\APARTMAN YÖNETİM\apartman\apartman\obj\Debug\apartman.frmApartmanGiris.resources
+D:\SANEM KOCA\2.DÖNEM\PROJELER\APARTMAN YÖNETİM\apartman\apartman\obj\Debug\apartman.Properties.Resources.resources
+D:\SANEM KOCA\2.DÖNEM\PROJELER\APARTMAN YÖNETİM\apartman\apartman\obj\Debug\apartman.csproj.GenerateResource.Cache
+D:\SANEM KOCA\2.DÖNEM\PROJELER\APARTMAN YÖNETİM\apartman\apartman\obj\Debug\apartman.frmApartmanSakini.resources
+D:\SANEM KOCA\2.DÖNEM\PROJELER\APARTMAN YÖNETİM\apartman\apartman\obj\Debug\apartman.frmApartmanYöneticisi.resources
+C:\Users\erem\Desktop\APARTMAN YÖNETİM\apartman\apartman\bin\Debug\apartman.exe.config
+C:\Users\erem\Desktop\APARTMAN YÖNETİM\apartman\apartman\obj\Debug\apartman.exe
+C:\Users\erem\Desktop\APARTMAN YÖNETİM\apartman\apartman\obj\Debug\apartman.pdb
+C:\Users\erem\Desktop\SANEMİN KLASÖRÜ\APARTMAN YÖNETİM\apartman\apartman\bin\Debug\apartman.exe.config
+C:\Users\erem\Desktop\SANEMİN KLASÖRÜ\APARTMAN YÖNETİM\apartman\apartman\obj\Debug\apartman.exe
+C:\Users\erem\Desktop\SANEMİN KLASÖRÜ\APARTMAN YÖNETİM\apartman\apartman\obj\Debug\apartman.pdb
+D:\SANEM KLASÖR\DERSLER\PROJELER\APARTMAN YÖNETİM\apartman\apartman\bin\Debug\apartman.exe.config
+D:\SANEM KLASÖR\DERSLER\PROJELER\APARTMAN YÖNETİM\apartman\apartman\bin\Debug\apartman.exe
+D:\SANEM KLASÖR\DERSLER\PROJELER\APARTMAN YÖNETİM\apartman\apartman\bin\Debug\apartman.pdb
+D:\SANEM KLASÖR\DERSLER\PROJELER\APARTMAN YÖNETİM\apartman\apartman\obj\Debug\apartman.csprojAssemblyReference.cache
+D:\SANEM KLASÖR\DERSLER\PROJELER\APARTMAN YÖNETİM\apartman\apartman\obj\Debug\apartman.frmApartmanSakini.resources
+D:\SANEM KLASÖR\DERSLER\PROJELER\APARTMAN YÖNETİM\apartman\apartman\obj\Debug\apartman.frmApartmanGiris.resources
+D:\SANEM KLASÖR\DERSLER\PROJELER\APARTMAN YÖNETİM\apartman\apartman\obj\Debug\apartman.frmApartmanYöneticisi.resources
+D:\SANEM KLASÖR\DERSLER\PROJELER\APARTMAN YÖNETİM\apartman\apartman\obj\Debug\apartman.Properties.Resources.resources
+D:\SANEM KLASÖR\DERSLER\PROJELER\APARTMAN YÖNETİM\apartman\apartman\obj\Debug\apartman.csproj.GenerateResource.cache
+D:\SANEM KLASÖR\DERSLER\PROJELER\APARTMAN YÖNETİM\apartman\apartman\obj\Debug\apartman.exe
+D:\SANEM KLASÖR\DERSLER\PROJELER\APARTMAN YÖNETİM\apartman\apartman\obj\Debug\apartman.pdb
